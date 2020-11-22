@@ -1,0 +1,7 @@
+
+Todo:
+  ☐ Add database connection with localdb
+  ☐ create a student and school based entity models 
+  ☐ connect one to one connection between schools and students
+  ☐ odata query based on student and schools 
+  ☐ 
