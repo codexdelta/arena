@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.newTodo{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
